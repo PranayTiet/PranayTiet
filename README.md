@@ -85,7 +85,6 @@ CognitiveClass.ai <br/>
   <img src="https://img.shields.io/badge/CognitiveClass.ai-SQL%20%26%20Relational%20Databases%20101-A78BFA?style=flat-square&labelColor=0d0b1f" />
 </a>
 
-CognitiveClass.ai <br/> <img src="https://img.shields.io/badge/CognitiveClass.ai-Prompt%20Engineering%20for%20Everyone-A78BFA?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/CognitiveClass.ai-SQL%20%26%20Relational%20Databases%20101-A78BFA?style=flat-square&labelColor=0d0b1f" />
 
 <br/>
 📊 GitHub Analytics
