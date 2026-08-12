@@ -1,4 +1,3 @@
-Readme · MD
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1f,50:312e81,100:7c3aed&height=230&section=header&text=Pranay%20Mittal&fontSize=46&fontColor=e0e0ff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML&descAlignY=55&descSize=18" alt="header" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Science;Python+%7C+Scikit-learn+%7C+Pandas;B.Tech+CS+%40+TIET+%7C+CGPA+9.19%2F10;Building+Toward+an+AI%2FML+Engineering+Career" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/CGPA-9.19%2F10-8B5CF6?style=for-the-badge&labelColor=0d0b1f" alt="cgpa" /> <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6366F1?style=for-the-badge&labelColor=0d0b1f" alt="degree" /> <img src="https://img.shields.io/badge/TIET-Patiala%2C%20India-7C3AED?style=for-the-badge&labelColor=0d0b1f" alt="location" />
 
 <br/><br/>
@@ -12,7 +11,7 @@ Readme · MD
 
 I'm a Computer Science undergraduate at Thapar Institute of Engineering and Technology (TIET), maintaining a 9.19/10 CGPA, with a concentrated focus on artificial intelligence and machine learning.
 
-My core strength lies in Python-based ML workflows — using Scikit-learn and Pandas for model building and data analysis — paired with a growing interest in agentic AI systems and frameworks like LangChain. I approach engineering with a product mindset: understanding not just how a model works, but why it matters to the system it's part of.
+My core strength lies in Python-based ML workflows — using Scikit-learn, Pandas, and NumPy for model building and data analysis — paired with a growing interest in data science and computer vision with OpenCV. I approach engineering with a product mindset: understanding not just how a model works, but why it matters to the system it's part of.
 
 I'm currently deepening my Machine Learning coursework and actively building a portfolio that reflects real, deployable work rather than tutorial-following.
 
