@@ -9,13 +9,13 @@
 <img src="https://komarev.com/ghpvc/?username=PranayTiet&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views" /> <img src="https://img.shields.io/github/followers/PranayTiet?label=Followers&style=flat-square&color=6366F1" alt="followers" /> <img src="https://img.shields.io/github/stars/PranayTiet?label=Stars&style=flat-square&color=7C3AED" alt="stars" /> </div> <br/>
 👨‍💻 About
 
-I'm a Computer Science undergraduate at Thapar Institute of Engineering and Technology (TIET), maintaining a 9.19/10 CGPA, with a concentrated focus on artificial intelligence and machine learning.
+I'm a Computer Science undergraduate at Thapar Institute of Engineering and Technology (TIET), maintaining a 9.05/10 CGPA, with a concentrated focus on artificial intelligence and machine learning.
 
 My core strength lies in Python-based ML workflows — using Scikit-learn, Pandas, and NumPy for model building and data analysis — paired with a growing interest in data science and computer vision with OpenCV. I approach engineering with a product mindset: understanding not just how a model works, but why it matters to the system it's part of.
 
 I'm currently deepening my Machine Learning coursework and actively building a portfolio that reflects real, deployable work rather than tutorial-following.
 
-yaml
+I am
 Open To: Internships in AI/ML, Data Science, and Applied Engineering roles
 <br/>
 🛠️ Tech Stack
@@ -36,7 +36,35 @@ Data Analysis (Pandas)	Working Knowledge	Data cleaning, transformation, and expl
 </div> <br/>
 🎓 Certifications
 
-Forage Job Simulations <br/> <img src="https://img.shields.io/badge/Goldman%20Sachs-Controllers-8B5CF6?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Goldman%20Sachs-Internal%20Audit-8B5CF6?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Goldman%20Sachs-Risk-8B5CF6?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-6366F1?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Mastercard-Cybersecurity-6366F1?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Siemens%20Mobility-Project%20Manager-7C3AED?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics-7C3AED?style=flat-square&labelColor=0d0b1f" />
+Forage Job Simulations <br/>
+
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1785742727697_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Controllers-8B5CF6?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_68ffc217825c2b171055ffda_1784787436641_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Internal%20Audit-8B5CF6?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1784738263048_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Risk-8B5CF6?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68ffc217825c2b171055ffda_1784571983901_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-6366F1?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_68ffc217825c2b171055ffda_1784273749404_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Mastercard-Cybersecurity-6366F1?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1784220292186_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Siemens%20Mobility-Project%20Manager-7C3AED?style=flat-square&labelColor=0d0b1f" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68ffc217825c2b171055ffda_1784186419616_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics-7C3AED?style=flat-square&labelColor=0d0b1f" />
+</a>
 
 CognitiveClass.ai <br/> <img src="https://img.shields.io/badge/CognitiveClass.ai-Prompt%20Engineering%20for%20Everyone-A78BFA?style=flat-square&labelColor=0d0b1f" /> <img src="https://img.shields.io/badge/CognitiveClass.ai-SQL%20%26%20Relational%20Databases%20101-A78BFA?style=flat-square&labelColor=0d0b1f" />
 
