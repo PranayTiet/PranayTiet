@@ -52,18 +52,6 @@ I'm currently deepening my Machine Learning coursework and actively building a p
 
 <br/>
 
-## 🧠 AI / ML Expertise
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning Fundamentals | Learning | Coursework covering regression, classification, and clustering |
-| Scikit-learn | Working Knowledge | Model building and evaluation for applied projects |
-| Data Analysis (Pandas) | Working Knowledge | Data cleaning, transformation, and exploratory analysis |
-
-</div>
-<br/>
-
 ## 🎓 Certifications
 
 **Forage Job Simulations** <br/>
@@ -134,8 +122,9 @@ I'm currently deepening my Machine Learning coursework and actively building a p
 ## 🎯 Current Focus
 ```yaml
 Learning:
+  - Data Structures And Algorithms
   - Machine Learning (regression, classification, clustering)
-  - Applied data analysis with Pandas
+  - Applied data analysis 
 
 Building:
   - A portfolio of real, published ML projects
@@ -143,9 +132,10 @@ Building:
 Exploring:
   - Data Science
   - Machine Learning
+  - Software Engineering
 
 Open To:
-  - Internships in AI/ML, Data Science, and Applied Engineering
+  - Internships in Software Engineering, AI/ML, Data Science, and Applied Engineering
 ```
 <br/>
 
