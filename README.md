@@ -25,21 +25,31 @@
   <img src="https://komarev.com/ghpvc/?username=PranayTiet&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/PranayTiet?label=Followers&style=flat-square&color=0EA5E9" alt="followers" />
   <img src="https://img.shields.io/github/stars/PranayTiet?label=Stars&style=flat-square&color=1E6091" alt="stars" />
+
+  <br/><br/>
+
+  <a href="#about">About</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#certifications">Certifications</a> ·
+  <a href="#analytics">Analytics</a> ·
+  <a href="#trophies">Trophies</a> ·
+  <a href="#activity">Activity</a> ·
+  <a href="#connect">Connect</a>
 </div>
-<br/>
 
-## 👨‍💻 About
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1e6091,100:2dd4bf&height=3" />
 
-I'm a Computer Science undergraduate at Thapar Institute of Engineering and Technology (TIET), maintaining a 9.05/10 CGPA, with a concentrated focus on artificial intelligence and machine learning.
+<h2 id="about">👨‍💻 About</h2>
 
-My core strength lies in Python-based ML workflows — using Scikit-learn, Pandas, and NumPy for model building and data analysis — paired with a growing interest in data science and computer vision with OpenCV. Alongside this, I have a solid grounding in **core software engineering fundamentals** — data structures, algorithms, and system design — which shapes how I build: I care about writing clean, production-worthy code and understanding *why* a system works the way it does, not just following a tutorial.
+I'm a CS undergrad at Thapar Institute of Engineering and Technology, currently in my 3rd year and sitting on a 9.05/10 CGPA. Most of my time these days goes into ML and data work — grinding through the usual regression/classification/clustering coursework, then trying to actually build something with Scikit-learn and Pandas instead of stopping once the tutorial ends. I've also been picking up OpenCV on the side, mostly because computer vision problems have turned out to interest me more than I expected going in.
 
-I'm currently deepening my Machine Learning coursework and actively building a portfolio that reflects real, deployable work rather than tutorial-following.
+None of that means much without solid fundamentals underneath it, though, so I spend a fair amount of time on DSA and just thinking about how systems are put together — not because a course told me to, but because ML built on shaky engineering doesn't hold up once it leaves the notebook.
 
-**Open To:** Internships in AI/ML, Data Science, and Applied Engineering roles
-<br/>
+Right now I'm putting together a portfolio of projects I'd actually want to show someone, and applying for internships across Software Engineering, AI/ML, and Data Science — wherever the problem is interesting enough.
 
-## 🛠️ Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,50:1e6091,100:0a0e17&height=3" />
+
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 **Languages** <br/>
 <img src="https://skillicons.dev/icons?i=py,java,cpp,sql&theme=dark" />
@@ -50,9 +60,9 @@ I'm currently deepening my Machine Learning coursework and actively building a p
 **Dev Tools** <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1e6091,100:2dd4bf&height=3" />
 
-## 🎓 Certifications
+<h2 id="certifications">🎓 Certifications</h2>
 
 **Forage Job Simulations** <br/>
 
@@ -88,43 +98,46 @@ I'm currently deepening my Machine Learning coursework and actively building a p
 
 **CognitiveClass.ai** <br/>
 
-<a href="YOUR_PROMPT_ENGINEERING_CERTIFICATE_URL" target="_blank">
+<a href="https://courses.cognitiveclass.ai/certificates/e1620f639fab44e0b249c87eb6cea767" target="_blank">
   <img src="https://img.shields.io/badge/CognitiveClass.ai-Prompt%20Engineering%20for%20Everyone-38BDF8?style=flat-square&labelColor=0a0e17" />
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_SQL_CERTIFICATE_URL" target="_blank">
+<a href="https://courses.cognitiveclass.ai/certificates/a3b699015497407599563cc381f216a9" target="_blank">
   <img src="https://img.shields.io/badge/CognitiveClass.ai-SQL%20%26%20Relational%20Databases%20101-38BDF8?style=flat-square&labelColor=0a0e17" />
 </a>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,50:1e6091,100:0a0e17&height=3" />
 
-## 📊 GitHub Analytics
+<h2 id="analytics">📊 GitHub Analytics</h2>
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranayTiet&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=38BDF8&icon_color=2DD4BF&text_color=c9d6e8&ring_color=1E6091&cache_seconds=1800" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayTiet&layout=compact&hide_border=true&bg_color=0A0E17&title_color=38BDF8&text_color=c9d6e8&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=PranayTiet&theme=dark&hide_border=true&background=0A0E17&ring=2DD4BF&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=c9d6e8&dates=5b7a9d" alt="GitHub Streak" />
 </div>
-<br/>
 
-## 🏆 GitHub Trophies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1e6091,100:2dd4bf&height=3" />
+
+<h2 id="trophies">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PranayTiet&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
-<br/>
 
-## 📈 Contribution Activity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,50:1e6091,100:0a0e17&height=3" />
+
+<h2 id="activity">📈 Contribution Activity</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranayTiet&bg_color=0A0E17&color=38BDF8&line=2DD4BF&point=e0f2fe&area=true&area_color=1E6091&hide_border=true" alt="activity graph" />
 </div>
-<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1e6091,100:2dd4bf&height=3" />
 
 ## 🎯 Current Focus
 ```yaml
 Learning:
   - Data Structures And Algorithms
   - Machine Learning (regression, classification, clustering)
-  - Applied data analysis 
+  - Applied data analysis
 
 Building:
   - A portfolio of real, published ML projects
@@ -137,9 +150,10 @@ Exploring:
 Open To:
   - Internships in Software Engineering, AI/ML, Data Science, and Applied Engineering
 ```
-<br/>
 
-## 🤝 Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,50:1e6091,100:0a0e17&height=3" />
+
+<h2 id="connect">🤝 Connect</h2>
 <div align="center">
   <a href="mailto:pranay15022006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" />
@@ -155,5 +169,5 @@ Open To:
 
 <div align="center">
   <i>"Consistent, deliberate progress beats sporadic bursts of effort."</i>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,35:1e6091,70:0f3460,100:0a0e17&height=140&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:1e6091,100:0a0e17&height=140&section=footer" alt="footer" />
 </div>
