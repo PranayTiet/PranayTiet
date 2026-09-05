@@ -70,19 +70,29 @@ Right now I'm putting together a portfolio of projects I'd actually want to show
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
-**Languages** <br/> <img src="https://skillicons.dev/icons?i=py,java,cpp,sql&theme=dark" />
+### Languages
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,mysql&theme=dark" />
+</p>
 
-**AI / Machine Learning** <br/> <img src="https://skillicons.dev/icons?i=sklearn,pandas&theme=dark" />
+### AI / Machine Learning
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,pandas&theme=dark" />
+</p>
 
-**Dev Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### Development
 
-<!-- ==================== DIVIDER ==================== -->
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask&theme=dark" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1e6091,100:2dd4bf&height=3" />
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode&theme=dark" />
+</p>
 
 <!-- ==================== CERTIFICATIONS ==================== -->
 
@@ -210,44 +220,31 @@ Right now I'm putting together a portfolio of projects I'd actually want to show
 
 <h2 id="focus">🎯 Current Focus</h2>
 
-<div align="center">
-
 ```yaml
 Learning:
-  - Data Structures And Algorithms
+  - Data Structures & Algorithms
   - Machine Learning
-  - Regression, Classification & Clustering
-  - Applied Data Analysis
+  - Generative AI & LLMs
+  - Backend Development
+  - Cloud & Enterprise Technologies
 
 Building:
-  - Real-world ML projects
-  - Portfolio-ready software
+  - Enterprise AI Solution Advisor
   - Practical AI/ML applications
+  - Full-stack software projects
 
 Exploring:
-  - Data Science
-  - Machine Learning
-  - Software Engineering
-  - Computer Vision
+  - RAG & AI Agents
+  - Cloud Architecture
+  - Solution Engineering
+  - Data & AI Platforms
 
 Open To:
   - Software Engineering Internships
   - AI/ML Internships
   - Data Science Internships
-  - Applied Engineering Opportunities
+  - Enterprise Technology Opportunities
 ```
-
-</div>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<h2>🐍 Contribution Snake</h2>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/PranayTiet/PranayTiet/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
 
 <!-- ==================== DIVIDER ==================== -->
 
