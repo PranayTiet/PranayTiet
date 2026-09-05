@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,35:0f3460,70:1e6091,100:2dd4bf&height=230&section=header&text=Pranay%20Mittal&fontSize=46&fontColor=e0f2fe&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML&descAlignY=55&descSize=18" alt="header" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Science;Python+%7C+Scikit-learn+%7C+Pandas;B.Tech+CS+%40+TIET+%7C+CGPA+9.05%2F10;Building+Toward+an+AI%2FML+Engineering+Career" alt="Typing SVG" />
@@ -170,4 +170,192 @@ Open To:
 <div align="center">
   <i>"Consistent, deliberate progress beats sporadic bursts of effort."</i>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:1e6091,100:0a0e17&height=140&section=footer" alt="footer" />
+</div> -->
+
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,35:0f3460,70:1e6091,100:2dd4bf&height=230&section=header&text=Pranay%20Mittal&fontSize=46&fontColor=e0f2fe&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descSize=17" alt="header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Applied+AI;Python+%7C+Scikit-learn+%7C+TensorFlow;Full-Stack+%26+Backend+Development;AI+%7C+Data+%7C+Enterprise+Solutions;B.Tech+CS+%40+TIET+%7C+CGPA+9.05%2F10" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/CGPA-9.05%2F10-2DD4BF?style=for-the-badge&labelColor=0a0e17" alt="CGPA" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-0EA5E9?style=for-the-badge&labelColor=0a0e17" alt="Degree" />
+  <img src="https://img.shields.io/badge/TIET-Patiala%2C%20India-1E6091?style=for-the-badge&labelColor=0a0e17" alt="TIET" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/pranay-mittal-283040325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranay15022006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="Email" />
+  </a>
+  <a href="https://github.com/PranayTiet" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1E6091?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=PranayTiet&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/PranayTiet?label=Followers&style=flat-square&color=0EA5E9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/PranayTiet?label=Stars&style=flat-square&color=1E6091" alt="Stars" />
+
+  <br/><br/>
+
+  <a href="#about">About</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#certifications">Certifications</a> ·
+  <a href="#analytics">Analytics</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#connect">Connect</a>
+
 </div>
+
+---
+
+<h2 id="about">👨‍💻 About</h2>
+
+I'm a Computer Science undergraduate at **Thapar Institute of Engineering and Technology**, currently building toward a career in **AI/ML, Software Engineering, and enterprise technology**.
+
+My current focus is on turning what I learn into practical systems — from machine learning and computer vision to full-stack applications, databases, APIs, and data-driven solutions.
+
+I enjoy working at the intersection of **AI, software engineering, data, and real-world problem solving**. I'm particularly interested in building systems that go beyond a model or notebook and can actually be deployed, demonstrated, and used.
+
+Currently strengthening my foundations in **DSA, Machine Learning, backend development, cloud technologies, and enterprise AI solutions**.
+
+---
+
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,mysql&theme=dark" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,pandas&theme=dark" />
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask&theme=dark" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode&theme=dark" />
+</p>
+
+---
+
+<h2 id="certifications">🎓 Certifications</h2>
+
+### 🤖 IBM Certifications
+
+<p>
+<a href="https://www.credly.com/earner/earned/badge/0204797c-36be-461b-a2f1-388e62206415" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Generative%20AI%20Essentials%3A%20Using%20LLMs%20to%20Work%20with%20Data-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0e17" alt="IBM Generative AI Essentials" />
+</a>
+
+<a href="https://www.credly.com/badges/9d11341e-327c-47c8-a574-ca9d9658216b" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Enterprise%20Design%20Thinking%20Practitioner-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0e17" alt="IBM Enterprise Design Thinking Practitioner" />
+</a>
+</p>
+
+### 💼 Forage Job Simulations
+
+<p>
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1785742727697_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Controllers-2DD4BF?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_68ffc217825c2b171055ffda_1784787436641_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-0EA5E9?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1784738263048_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Internal%20Audit-2DD4BF?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68ffc217825c2b171055ffda_1784571983901_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Mastercard-Cybersecurity-0EA5E9?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_68ffc217825c2b171055ffda_1784273749404_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Siemens%20Mobility-Project%20Manager-1E6091?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_68ffc217825c2b171055ffda_1784220292186_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Goldman%20Sachs-Risk-2DD4BF?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68ffc217825c2b171055ffda_1784186419616_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics-1E6091?style=flat-square&labelColor=0a0e17" />
+</a>
+</p>
+
+### 📚 CognitiveClass.ai
+
+<p>
+<a href="https://courses.cognitiveclass.ai/certificates/e1620f639fab44e0b249c87eb6cea767" target="_blank">
+  <img src="https://img.shields.io/badge/CognitiveClass.ai-Prompt%20Engineering%20for%20Everyone-38BDF8?style=flat-square&labelColor=0a0e17" />
+</a>
+
+<a href="https://courses.cognitiveclass.ai/certificates/a3b699015497407599563cc381f216a9" target="_blank">
+  <img src="https://img.shields.io/badge/CognitiveClass.ai-SQL%20%26%20Relational%20Databases%20101-38BDF8?style=flat-square&labelColor=0a0e17" />
+</a>
+</p>
+
+---
+
+<h2 id="analytics">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PranayTiet&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=38BDF8&icon_color=2DD4BF&text_color=c9d6e8&ring_color=1E6091&cache_seconds=1800" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayTiet&layout=compact&hide_border=true&bg_color=0A0E17&title_color=38BDF8&text_color=c9d6e8&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=PranayTiet&theme=dark&hide_border=true&background=0A0E17&ring=2DD4BF&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=c9d6e8&dates=5b7a9d" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<h2 id="current-focus">🎯 Current Focus</h2>
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Generative AI & LLMs
+  - Backend Development
+  - Cloud & Enterprise Technologies
+
+Building:
+  - Enterprise AI Solution Advisor
+  - Practical AI/ML applications
+  - Full-stack software projects
+
+Exploring:
+  - RAG & AI Agents
+  - Cloud Architecture
+  - Solution Engineering
+  - Data & AI Platforms
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Internships
+  - Data Science Internships
+  - Enterprise Technology Opportunities
